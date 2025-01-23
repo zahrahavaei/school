@@ -10,7 +10,7 @@ class program
     {
        
         List<Student> studentslist = new List<Student>();
-        Student student = new Student("","",0,"");
+        Istudentedit student = new Student("","",0,"");
         while (true)
         {
             Console.WriteLine("What do you want to do?! ");

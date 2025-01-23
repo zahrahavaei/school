@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\school\\school\\school.csproj": {}
+    "D:\\github\\school\\school\\school.csproj": {}
   },
   "projects": {
-    "D:\\c#\\school\\school\\school.csproj": {
+    "D:\\github\\school\\school\\school.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\school\\school\\school.csproj",
+        "projectUniqueName": "D:\\github\\school\\school\\school.csproj",
         "projectName": "school",
-        "projectPath": "D:\\c#\\school\\school\\school.csproj",
+        "projectPath": "D:\\github\\school\\school\\school.csproj",
         "packagesPath": "C:\\Users\\Zigorat\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\school\\school\\obj\\",
+        "outputPath": "D:\\github\\school\\school\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace school
 {
-    public class Student
+    public class Student: Istudentedit
     {
         private string firstname;
         private string lastname;

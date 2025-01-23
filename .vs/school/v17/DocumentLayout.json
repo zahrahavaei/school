@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c#\\school\\",
+  "WorkspaceRootPath": "D:\\github\\school\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|d:\\c#\\school\\school\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|d:\\github\\school\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|d:\\github\\school\\school\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|solutionrelative:school\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|d:\\c#\\school\\school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|solutionrelative:school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|d:\\github\\school\\school\\istudentedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B46078-8C9A-4F32-8280-57B14AA1FB69}|school\\school.csproj|solutionrelative:school\\istudentedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Istudentedit.cs",
+              "DocumentMoniker": "D:\\github\\school\\school\\Istudentedit.cs",
+              "RelativeDocumentMoniker": "school\\Istudentedit.cs",
+              "ToolTip": "D:\\github\\school\\school\\Istudentedit.cs",
+              "RelativeToolTip": "school\\Istudentedit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:32:58.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\c#\\school\\school\\Student.cs",
+              "DocumentMoniker": "D:\\github\\school\\school\\Student.cs",
               "RelativeDocumentMoniker": "school\\Student.cs",
-              "ToolTip": "D:\\c#\\school\\school\\Student.cs",
+              "ToolTip": "D:\\github\\school\\school\\Student.cs",
               "RelativeToolTip": "school\\Student.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAwFQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T20:58:26.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\school\\school\\Program.cs",
+              "DocumentMoniker": "D:\\github\\school\\school\\Program.cs",
               "RelativeDocumentMoniker": "school\\Program.cs",
-              "ToolTip": "D:\\c#\\school\\school\\Program.cs",
+              "ToolTip": "D:\\github\\school\\school\\Program.cs",
               "RelativeToolTip": "school\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T20:57:55.187Z"
+              "WhenOpened": "2025-01-19T20:57:55.187Z",
+              "EditorCaption": ""
             }
           ]
         }
