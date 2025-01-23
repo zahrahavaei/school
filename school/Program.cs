@@ -8,10 +8,10 @@ class program
 {
     static void Main()
     {
-       
+        int num;
         List<Student> studentslist = new List<Student>();
         Istudentedit student = new Student("","",0,"");
-        while (true)
+        do
         {
             Console.WriteLine("What do you want to do?! ");
             Console.ForegroundColor = ConsoleColor.Green;
@@ -22,7 +22,7 @@ class program
             Console.WriteLine("5: show list of student ");
             Console.WriteLine("6: Exit ");
             Console.ResetColor();
-            if (!int.TryParse(Console.ReadLine(), out int num) || (num < 1 || num > 6))
+            if (!int.TryParse(Console.ReadLine(), out  num) || (num < 1 || num > 6))
             {
                 Console.WriteLine("invalid number,try again");
                 continue;
@@ -51,9 +51,9 @@ class program
                     return;
 
             }
-            
-            
-        }
+
+
+        } while (num != 6);
     }
    
     

@@ -83,7 +83,7 @@ namespace school
             }
             else
             {
-                Console.WriteLine($"Student {firstname} not found.");
+                Console.WriteLine($"Student {stfirstname} not found.");
             }
         }
         //.........................................................................
@@ -101,6 +101,7 @@ namespace school
                 studentupdate.Firstname = newfirstname;
                 Console.WriteLine("update was successful");
             }
+            
         }
         //........................................................................
         public void Searchstudent(List<Student> studentslist)
